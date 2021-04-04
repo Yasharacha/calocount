@@ -1,0 +1,14 @@
+.carousel-fill {
+    height: -o-calc(100vh - 165px) !important;
+    height: -webkit-calc(100vh - 165px) !important;
+    height: -moz-calc(100vh - 165px) !important;
+    height: calc(100vh - 165px) !important;
+    width: auto !important;
+    overflow: hidden;
+    display: inline-block;
+    text-align: center;
+}
+
+.carousel-item {
+    text-align: center !important;
+}
